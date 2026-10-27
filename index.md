@@ -68,3 +68,6 @@ Head TA
 Summer 24, 25, 26 <br>
 Head TA <br>
 <small>Winner of the [Award for Outstanding Teaching](https://www.wiwiss.fu-berlin.de/studium-lehre/qualitaetsmanagement/preis-fuer-gute-lehre.html) at the School of Business & Economics in 2025</small>
+
+Supporting Supervision of Theses <br>
+Summer 25, M.Sc.: Monetary Policy Transmission and the Structure of Household Debt
