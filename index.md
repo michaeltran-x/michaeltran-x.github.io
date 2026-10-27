@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a PhD Student in Economics at Freie Universität Berlin and Berlin School of Economics. Additionally,  I am a contributor to the [LNRI project](#lnri) and a [Kiel Institute Junior Fellow](https://www.kielinstitut.de/de/expertinnen-und-experten/michael-tran-xuan/). Previously, I was a predoctoral researcher at the [MacroFinance & MacroHistory Lab](https://www.macrohistory.net/) at the University of Bonn. <br>
+I am a PhD Student in Economics at [Freie Universität Berlin](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/team/researcher_phd/Michael-Tran-Xuan/index.html) and [Berlin School of Economic](https://berlinschoolofeconomics.de/people/members/michael-tran-xuan). Additionally,  I am a contributor to the [LNRI project](#lnri) and a [Kiel Institute Junior Fellow](https://www.kielinstitut.de/de/expertinnen-und-experten/michael-tran-xuan/). Previously, I was a predoctoral researcher at the [MacroFinance & MacroHistory Lab](https://www.macrohistory.net/) at the University of Bonn. <br>
 
 My research interests are topics at the intersection of labor and macroeconomics, with a focus on spatial questions. Currently, I work on regional wage disparities, local political consequences of energy price shocks, and housing costs as barriers to labor mobility. <br>
 
