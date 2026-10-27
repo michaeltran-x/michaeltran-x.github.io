@@ -51,7 +51,8 @@ You can find more information here: [**regional-inequality.org**](https://region
 ## Teaching
 
 ### Berlin School of Economics
-[Preparatory Math Course](https://berlinschoolofeconomics.de/phd-program/courses/detail/preparatory-math-course-497) (PhD, English), Winter 26/27 <br>
+[Preparatory Math Course](https://berlinschoolofeconomics.de/phd-program/courses/detail/preparatory-math-course-497) (PhD, English) <br>
+Winter 26/27 <br>
 Lecturer for 20-30 students
 <details>
 <summary>Description</summary>
