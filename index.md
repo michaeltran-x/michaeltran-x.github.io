@@ -18,7 +18,7 @@ with Sébastien Breau, Luis Bauluz, Pawel Bukowski, Mark Fransham, Annie Lee, Ne
 <details> 
 <summary>Abstract</summary>
 We build the first harmonized database on spatial wage inequality from administrative microdata across Canada, France, Germany, the UK and the US since the mid-1970s. Over the past four decades, spatial wage inequality has risen sharply, driven mainly by high wage earners pulling away in a handful of large cities. Workers near the top of the distribution earn substantially more in large cities than elsewhere, and this gap has widened markedly since 1980. In contrast, wages near the bottom have grown more slowly in large cities than in smaller labor markets. This geographic asymmetry accounts for roughly half of the rise in national wage inequality, making geography central to the story of growing inequality in advanced nations.
-</details> 
+</details>
 <br>
 
 **Energy Prices and Populism** <br>
@@ -26,8 +26,8 @@ with Fernanda Ballesteros and Carmen van Klaveren <br>
 Draft in preparation
 <details> 
 <summary>Abstract</summary>
-In preparation
-</details> 
+The return of inflation in Europe and the US coincides with increasing success of populist parties. This phenomenon is often cited in the case of Germany and the rise of the right-wing party Alternative für Deutschland (AfD), in light of the inflationary surge following the Russian invasion of Ukraine and the ensuing energy crisis. This paper aims to exploit the energy crisis as an inflationary shock on German households and capture its effect on the change in vote shares for the AfD.
+</details>
 <br>
 
 **Labor Mobility and Housing Costs** <br>
@@ -36,7 +36,7 @@ Draft in preparation
 <details> 
 <summary>Abstract</summary>
 We develop a life-cycle spatial equilibrium model in which renter households choose where to live, where to work and in which occupation, and in which the housing payment a household faces depends both on the rent at which new leases are signed in each region and on the terms of the lease it currently holds. The labour-market block builds on the dynamic Roy model of Dvorkin and Monge-Naranjo (2019): workers accumulate a single stock of portable human capital, part of which is lost upon a change of occupation according to an occupation-to-occupation transferability matrix, and they sort across occupations according to permanent comparative advantage. We embed this structure in a spatial economy with a rental housing market in which sitting tenants pay contract rents that adjust only gradually towards market conditions, so that a household which moves forfeits whatever discount its incumbent lease affords. The wedge between the payment of a stayer and that of a mover is the mechanism through which housing scarcity can alter career choices, the accumulation of human capital and, in the aggregate, productivity.
-</details> 
+</details>
 <br>
 
 ---
