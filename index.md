@@ -24,9 +24,18 @@ with Fernanda Ballesteros and Carmen van Klaveren
 
 ## Teaching
 
+# Berlin School of Economics
+[Preparatory Math Course](https://berlinschoolofeconomics.de/phd-program/courses/detail/preparatory-math-course-497) (PhD), Winter 26
+
+<details>
+<summary>Course description</summary>
+The Preparatory Math Course aims to equip students with the necessary math background for the first year (compulsory) economics graduate level courses. It is mainly meant to be a refresher of existing math knowledge.
+</details>
+
+# Freie Universität Berlin
 Mathematics for Economists (Undergraduate), Winter 23, 24, 25, 26 <br>
 Introduction to Econometrics (Undergraduate), Summer 24, 25, 26 <br>
-Preparatory Math Course (PhD), Winter 26
+
 
 ---
 
