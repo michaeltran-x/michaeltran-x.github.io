@@ -1,0 +1,7 @@
+title: Michael Tran
+description: PhD student in Economics, Freie Universität Berlin & Berlin School of Economics
+logo: /photo.jpg
+show_downloads: false
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
