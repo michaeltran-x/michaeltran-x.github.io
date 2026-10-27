@@ -10,12 +10,11 @@ I am a PhD student in Economics working on topics at the intersection of labor e
 **Pulled Apart: Spatial Wage Inequality in Advanced Economies, 1975–2019**
 with Coauthor Name · [PDF](paper1.pdf)
 
-**Second Paper Title**
-[PDF](paper2.pdf)
+## Work in Progress
 
-## Publications
 
-**Paper Title**, *Journal Name*, 2025. [Link](https://doi.org/...)
+## Linking National and Regional Inequality (LNRI)
+
 
 ## Teaching
 
