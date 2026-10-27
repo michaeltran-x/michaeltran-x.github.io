@@ -23,6 +23,10 @@ We build the first harmonized database on spatial wage inequality from administr
 **Energy Prices and Populism** <br>
 with Fernanda Ballesteros and Carmen van Klaveren <br> 
 Draft in preparation
+<details> 
+<summary>Abstract</summary>
+in preparation
+</details> <br>
 
 **Labor Mobility and Housing Costs** <br>
 with Britta Gehrke and Nicolas Sycrichas <br> 
@@ -52,25 +56,27 @@ Lecturer for 20-30 students
 <details>
 <summary>Description</summary>
 The Preparatory Math Course aims to equip students with the necessary math background for the first year (compulsory) economics graduate level courses. It is mainly meant to be a refresher of existing math knowledge.
-</details>
+</details> <br>
 
 ### Freie Universität Berlin
-[Bridge Course in Mathematics](https://www.wiwiss.fu-berlin.de/studium-lehre/studienstart/studienstart-bachelor/brueckenkurs-mathematik.html) (B.Sc., German), Winter 24/25, 25/26, 26/27 <br>
+[Bridge Course in Mathematics](https://www.wiwiss.fu-berlin.de/studium-lehre/studienstart/studienstart-bachelor/brueckenkurs-mathematik.html) (B.Sc., German) <br> Winter 24/25, 25/26, 26/27 <br>
 Lecturer for 200-300 students
 <details>
 <summary>Description</summary>
 A bridge course in mathematics is offered to prospective economics students before the actual start of classes. The goal of the bridge course is to prepare students for the required first-semester mathematics module. To this end, the course reviews the most important topics from high school mathematics, based on the introductory chapters of the textbook "Mathematics for Economists" by Sydsaeter, Hammond, Strom, and Carvajal, which is used in the course. In particular, the course covers the fundamentals of algebra and solving equations.
 </details> <br>
 
-[Mathematics for Economists](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/iso/lehre/bachelor_mathematik.html) (B.Sc., German), Winter 23/24, 24/25, 25/26, 26/27 <br>
+[Mathematics for Economists](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/iso/lehre/bachelor_mathematik.html) (B.Sc., German) <br> 
+Winter 23/24, 24/25, 25/26, 26/27 <br>
 Head TA
 <details>
 <summary>Description</summary>
 Students are familiar with the essential mathematical methods they need to understand formalized economic concepts in their further studies and to develop independent solutions to related problems. This includes a basic understanding of linear algebra and calculus, as well as their application to economic problems.
 </details> <br>
 
-[Introduction to Econometrics](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/iso/lehre/bachelor_oekonometrie.html) (B.Sc./M.Sc., English), Summer 24, 25, 26 <br>
-Head TA <br>
+[Introduction to Econometrics](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/iso/lehre/bachelor_oekonometrie.html) (B.Sc./M.Sc., English) <br>
+Summer 24, 25, 26 <br>
+Head TA
 <small>\*Winner of the [Award for Outstanding Teaching](https://www.wiwiss.fu-berlin.de/studium-lehre/qualitaetsmanagement/preis-fuer-gute-lehre.html) at the School of Business & Economics in 2025</small>
 <details>
 <summary>Description</summary>
