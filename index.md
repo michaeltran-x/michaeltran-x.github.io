@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 I am a PhD Student in Economics at Freie Universität Berlin and Berlin School of Economics. Additionally,  I am a contributor to the [LNRI project](#lnri) and a [Kiel Institute Junior Fellow](https://www.kielinstitut.de/de/expertinnen-und-experten/michael-tran-xuan/). Previously, I was a predoctoral researcher at the [MacroFinance & MacroHistory Lab](https://www.macrohistory.net/) at the University of Bonn. <br>
 
 My research interests are topics at the intersection of labor and macroeconomics, with a focus on spatial questions. Currently, I work on regional wage disparities, local political consequences of energy price shocks, and housing costs as barriers to labor mobility. <br>
@@ -8,6 +9,7 @@ My research interests are topics at the intersection of labor and macroeconomics
 Feel free to get in touch at any time!
 
 Contact: **m.tran[at]fu-berlin.de**
+
 ---
 
 ## Work in Progress
@@ -34,6 +36,7 @@ Draft in preparation
 We develop a life-cycle spatial equilibrium model in which renter households choose where to live, where to work and in which occupation, and in which the housing payment a household faces depends both on the rent at which new leases are signed in each region and on the terms of the lease it currently holds. The labour-market block builds on the dynamic Roy model of Dvorkin and Monge-Naranjo (2019): workers accumulate a single stock of portable human capital, part of which is lost upon a change of occupation according to an occupation-to-occupation transferability matrix, and they sort across occupations according to permanent comparative advantage. We embed this structure in a spatial economy with a rental housing market in which sitting tenants pay contract rents that adjust only gradually towards market conditions, so that a household which moves forfeits whatever discount its incumbent lease affords. The wedge between the payment of a stayer and that of a mover is the mechanism through which housing scarcity can alter career choices, the accumulation of human capital and, in the aggregate, productivity.
 </details> 
 <br>
+
 ---
 
 ## Linking National and Regional Inequality (LNRI) {#lnri}
@@ -41,6 +44,7 @@ We develop a life-cycle spatial equilibrium model in which renter households cho
 The LNRI Project is an ongoing initiative to provide open and convenient access to an international database of micro statistics on regional income inequality. All statistics are obtained from administrative data on labor and capital incomes collected from social security records, personal income tax returns and/or population censuses. For comparison, the data from each country are harmonized. <br>
 
 You can find more information here: [**regional-inequality.org**](https://regional-inequality.org)
+
 ---
 
 ## Teaching
