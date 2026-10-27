@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I am a PhD Student in Economics at [Freie Universität Berlin](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/team/researcher_phd/Michael-Tran-Xuan/index.html) and [Berlin School of Economics](https://berlinschoolofeconomics.de/people/members/michael-tran-xuan). Additionally,  I am a contributor to the [LNRI project](#lnri) and a [Kiel Institute Junior Fellow](https://www.kielinstitut.de/de/expertinnen-und-experten/michael-tran-xuan/). Previously, I was a predoctoral researcher at the [MacroFinance & MacroHistory Lab](https://www.macrohistory.net/) at the University of Bonn. <br>
+I am a PhD Student in Economics at [Freie Universität Berlin](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/nautz/team/researcher_phd/Michael-Tran-Xuan/index.html) and [Berlin School of Economics](https://berlinschoolofeconomics.de/people/members/michael-tran-xuan). Additionally,  I am a contributor to the [LNRI Project](#lnri) and a [Kiel Institute Junior Fellow](https://www.kielinstitut.de/de/expertinnen-und-experten/michael-tran-xuan/). Previously, I was a predoctoral researcher at the [MacroFinance & MacroHistory Lab](https://www.macrohistory.net/) at the University of Bonn. <br>
 
 My research interests are topics at the intersection of labor and macroeconomics, with a focus on spatial questions. Currently, I work on regional wage disparities, local political consequences of energy price shocks, and housing costs as a barrier to labor mobility. <br>
 
@@ -68,6 +68,3 @@ Head TA
 Summer 24, 25, 26 <br>
 Head TA <br>
 <small>Winner of the [Award for Outstanding Teaching](https://www.wiwiss.fu-berlin.de/studium-lehre/qualitaetsmanagement/preis-fuer-gute-lehre.html) at the School of Business & Economics in 2025</small>
-
-**Supporting supervision of theses** <br>
-Summer 25, M.Sc.: Monetary Policy Transmission and the Structure of Household Debt
