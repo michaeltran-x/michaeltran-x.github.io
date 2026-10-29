@@ -62,7 +62,7 @@ Lecturer
 
 [Mathematics for Economists](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/iso/lehre/bachelor_mathematik.html) (B.Sc., German) <br> 
 Winter 23/24, 24/25, 25/26, 26/27 <br>
-Head TA
+Teaching Assistant
 
 [Introduction to Econometrics](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/iso/lehre/bachelor_oekonometrie.html) (B.Sc./M.Sc., English) <br>
 Summer 24, 25, 26 <br>
