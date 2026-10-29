@@ -54,11 +54,11 @@ You can find more information here: [regional-inequality.org](https://regional-i
 ### Berlin School of Economics
 [Preparatory Math Course](https://berlinschoolofeconomics.de/phd-program/courses/detail/preparatory-math-course-497) (PhD, English) <br>
 Winter 26/27 <br>
-Lecturer for 20-30 students
+Lecturer
 
 ### Freie Universität Berlin
 [Bridge Course in Mathematics](https://www.wiwiss.fu-berlin.de/studium-lehre/studienstart/studienstart-bachelor/brueckenkurs-mathematik.html) (B.Sc., German) <br> Winter 24/25, 25/26, 26/27 <br>
-Lecturer for 200-300 students
+Lecturer
 
 [Mathematics for Economists](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/iso/lehre/bachelor_mathematik.html) (B.Sc., German) <br> 
 Winter 23/24, 24/25, 25/26, 26/27 <br>
@@ -66,5 +66,5 @@ Head TA
 
 [Introduction to Econometrics](https://www.wiwiss.fu-berlin.de/fachbereich/vwl/iso/lehre/bachelor_oekonometrie.html) (B.Sc./M.Sc., English) <br>
 Summer 24, 25, 26 <br>
-Head TA <br>
+Teaching Assistant <br>
 <small>Winner of the [Award for Outstanding Teaching](https://www.wiwiss.fu-berlin.de/studium-lehre/qualitaetsmanagement/preis-fuer-gute-lehre.html) at the School of Business & Economics in 2025</small>
